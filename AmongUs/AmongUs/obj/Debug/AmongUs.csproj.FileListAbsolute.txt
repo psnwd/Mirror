@@ -1,0 +1,17 @@
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\bin\Debug\AmongUs.exe.config
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\bin\Debug\AmongUs.exe
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\bin\Debug\AmongUs.pdb
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\bin\Debug\Memory.dll
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\bin\Debug\System.Security.Principal.Windows.dll
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\bin\Debug\Memory.xml
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\bin\Debug\System.Security.Principal.Windows.xml
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\obj\Debug\AmongUs.csprojAssemblyReference.cache
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\obj\Debug\AmongUs.Injected.resources
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\obj\Debug\AmongUs.StartInjector.resources
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\obj\Debug\AmongUs.Properties.Resources.resources
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\obj\Debug\AmongUs.csproj.GenerateResource.cache
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\obj\Debug\AmongUs.csproj.CoreCompileInputs.cache
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\obj\Debug\AmongUs.csproj.CopyComplete
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\obj\Debug\AmongUs.exe
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\obj\Debug\AmongUs.pdb
+E:\Game Project\Among us\Overlay\AmongUs\AmongUs\obj\Debug\AmongUs.InjectedMore.resources
