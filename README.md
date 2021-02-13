@@ -1,5 +1,5 @@
 # Mirror
-Among Us trainer
+SImple C# Among Us trainer
 
 
 # soon
