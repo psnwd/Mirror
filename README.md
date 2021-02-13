@@ -5,8 +5,8 @@ SImple C# Among Us trainer
 | Version         | Supported  |
 |-----------------|:------------:|
 | Steam           |      ✔️     |
-| Epic Games      |      ✔️     |
-| Itch.io         |      ✔️     |
-| Microsoft store |      ✔️     |
+| Epic Games      |      ❌     |
+| Itch.io         |      ❌     |
+| Microsoft store |      ❌     |
 | Cracked         |     [❌](https://tryitands.ee/)    |
 | Beta            |     [❌](https://tryitands.ee/)    |
