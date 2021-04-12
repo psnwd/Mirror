@@ -1,5 +1,5 @@
 # Mirror
-SImple C# Among Us trainer
+SImple C# Among Us trainer (Not updated)
 
 ## Supported versions of Among Us
 | Version         | Supported  |
